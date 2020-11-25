@@ -1,4 +1,4 @@
-# Liberal Arts Computing Curricula: Innovations, Challenges, and Opportunities
+# Innovations and Opportunities in Liberal Arts Computing Education
 
 A pre-symposium event at [SIGCSE 2021](https://sigcse2020.sigcse.org) organized by members of the SIGCSE Committee on Computing Education in Liberal Arts Colleges.
 
