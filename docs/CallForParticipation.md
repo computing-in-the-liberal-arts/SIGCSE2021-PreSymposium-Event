@@ -8,9 +8,9 @@ This is a [SIGCSE 2021](https://sigcse2021.sigcse.org) affiliated event organize
 
 This event builds on priorities identified at our [SIGCSE 2020 Pre-Symposium event](https://computing-in-the-liberal-arts.github.io/SIGCSE2020-PreSymposium-Event/), and the program committee invites submissions for the following sessions:
 
-  * Curricular innovations that support uniquely liberal arts approaches to computing.
-  * Best practices for “CS+X” courses.  
-  * Models for mentoring, recruiting and hiring PhD candidates and postdocs into computer science positions at liberal arts institutions.
+  * __Curricular Models:__ Descriptions of curricular innovations that support uniquely liberal arts approaches to computing.
+  * __CS+X Courses:__ Descriptions of “CS+X” courses, outcomes, and best practices for CS+X in a liberal arts context.
+  * __Recruiting:__ Models for mentoring, recruiting and hiring PhD candidates and postdocs into computer science positions at liberal arts institutions.
 
 All submissions will be lightly screened by the program committee for suitability. All suitable submissions will be made available to the community through this site and all authors of accepted submissions will receive an invitation to participate in the event.  In addition, the program committee will extend invitations to the authors of select submissions to participate in a panel discussion that will begin each session.
 
@@ -29,7 +29,7 @@ Apart from required SIGCSE TS registration there is no cost to participants. How
 
 The program committee invites four types of submissions for the pre-symposium event. Submission of one of the four types is required for participation in the event.  Participants are welcome to make multiple submissions.
 
-1. __Curriculum Proposals:​__ A brief (approximately 2-page) description of the curricular model of your liberal arts computing program.
+1. __Curricular Model Submissions:​__ A brief (approximately 2-page) description of the curricular model of your liberal arts computing program.
 
     Please see the [Curriculum Submission Template](curricula/CurriculumModelTemplate.md) and the samples ([Dickinson College](curricula/dickinson/index.md), [Whitman College](curricula/whitman/index.md)).  Submissions describing models that are particularly innovative, or that leverage particular opportunities and/or challenges presented by the liberal arts context, and/or show potential for broadening participation in computing are encouraged.
 
@@ -38,14 +38,14 @@ The program committee invites four types of submissions for the pre-symposium ev
     * Contact: Jim Teresco <jteresco@siena.edu>
     * Template: [Curriculum Submission Template](curricula/CurriculumModelTemplate.md)
 
-1. __CS+X Proposals:__
+1. __CS+X Course Submissions:__
 
     **NEED_DESCRIPTION_HERE**
 
     * Contact: Luke Gusukuma <lukesg08@vt.edu>
     * Template: [CS+X Submission Template](CS+X/CS+XTemplate.md)
 
-1. __Recruiting Proposals:__
+1. __Recruiting Submissions:__
 
     Provide a very brief (1-page) position statements regarding mentoring, recruiting, and hiring for Liberal Arts CS positions. The first paragraph should be a short career biography; subsequent paragraphs should discuss your ideas for, or potential contributions to, community efforts such as a workshop or mentoring program.
 
