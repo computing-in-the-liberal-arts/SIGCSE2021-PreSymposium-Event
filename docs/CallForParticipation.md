@@ -43,14 +43,14 @@ The program committee invites four types of submissions for the pre-symposium ev
     **NEED_DESCRIPTION_HERE**
 
     * Contact: Luke Gusukuma <lukesg08@vt.edu>
-    * Template: [CS+X Submission Template](CS+X/CS+XTemplate.md)
+    * Template: [CS+X Submission Template](cs+x/CS+XTemplate.md)
 
 1. __Recruiting Submissions:__
 
     Provide a very brief (1-page) position statements regarding mentoring, recruiting, and hiring for Liberal Arts CS positions. The first paragraph should be a short career biography; subsequent paragraphs should discuss your ideas for, or potential contributions to, community efforts such as a workshop or mentoring program.
 
     * Contact: Andrea Tartaro <andrea.tartaro@furman.edu>
-    * Template: [Recruiting Submission Template](Recruiting/RecruitingTemplate.md)
+    * Template: [Recruiting Submission Template](recruiting/RecruitingTemplate.md)
 
 1. __Attendee:__ If you would like to participate, but do not have a submission in one of the above categories please send an e-mail expressing interest in attending and participating in the event to **NEED_AN_EMAIL_FOR_THIS**.
 
