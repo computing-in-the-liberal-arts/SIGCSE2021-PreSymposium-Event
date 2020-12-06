@@ -12,7 +12,7 @@ This event builds on priorities identified at our [SIGCSE 2020 Pre-Symposium eve
   * __CS+X Courses:__ Descriptions of “CS+X” courses, outcomes, and best practices for CS+X in a liberal arts context.
   * __Recruiting:__ Models for mentoring, recruiting and hiring PhD candidates and postdocs into computer science positions at liberal arts institutions.
 
-All submissions will be lightly screened by the program committee for suitability. All suitable submissions will be made available to the community through this site and all authors of accepted submissions will receive an invitation to participate in the event.  In addition, the program committee will extend invitations to the authors of select submissions to participate in a panel discussion that will begin each session.
+All submissions will be lightly screened by the program committee for suitability. All suitable submissions will be made available to the community through this site and all authors of accepted submissions will receive an invitation to submit a video presentation and to participate in the synchronous event.  In addition, the program committee will extend invitations to the authors of select submissions to participate in a panel discussion that will begin each synchronous session.
 
 A template for submission or description of requested information is provided for each session, as well as a contact for questions or email submissions. All submissions may be made through email or GitHub pull request following the process described in the section below. Submissions to multiple sessions are welcome.
 
