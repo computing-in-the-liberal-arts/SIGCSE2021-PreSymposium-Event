@@ -4,7 +4,7 @@
 
 # **DRAFT**
 
-This is a [SIGCSE 2021](https://sigcse2020.sigcse.org) affiliated event organized by members of the [SIGCSE Committee on Computing Education in Liberal Arts Colleges](https://computing-in-the-liberal-arts.github.io/computing-in-the-liberal-arts/).
+This is a [SIGCSE 2021](https://sigcse2021.sigcse.org) affiliated event organized by members of the [SIGCSE Committee on Computing Education in Liberal Arts Colleges](https://computing-in-the-liberal-arts.github.io/computing-in-the-liberal-arts/).
 
 This event builds on priorities identified at our [SIGCSE 2020 Pre-Symposium event](https://computing-in-the-liberal-arts.github.io/SIGCSE2020-PreSymposium-Event/), and the program committee invites submissions for the following sessions:
 
@@ -23,7 +23,7 @@ Apart from required SIGCSE TS registration there is no cost to participants. How
 - January 11, 2021 - Submissions Due
 - January 25, 2021 - Notifications of acceptances, breakout topics and lead panelist invitations.
 - Monday March 8 and Tuesday March 9 - SIGCSE Affiliated Event
-  - **NEED_TIMES_OF_DAY_HERE**
+  - **NEED_TO_ADD_TIMES_OF_DAY_HERE**
 
 ## Call for Participation:
 
@@ -77,7 +77,7 @@ The Program Committee intends to collaborate interested authors from each sessio
 
 ## Tentative Event Agenda
 
-** NEED_TIMES_OF_DAY_HERE **
+**NEED_TO_ADD_TIMES_OF_DAY_HERE**
 
 - March 8:
   - Current Issues in Liberal Arts Computing Education
