@@ -1,14 +1,12 @@
-# _Institution Name_
+# _Title_
 Contributed by _Name_, _Email address_
 
-_Please limit your contribution to about two pages, or 700-1000 words._
+_Please limit your contribution to about one pages, or 350-500 words._
 
-## Institutional and departmental context
-- Location:
-- Student body size: _N_ students
-- Degree(s) offered:
-- Department/major name:
-- Number of contributing faculty: _N_ FTE
-- Number of majors annually: _N_ majors
+## Biography
 
-## NEED TO COMPLETE THIS ##
+_Write a short career biography._
+
+## Proposal
+
+_Write your ideas for, or potential contributions to, community efforts such as a workshop or mentoring program._
