@@ -46,7 +46,7 @@ The program committee invites four types of submissions for the pre-symposium ev
 
 1. __Recruiting Submissions:__
 
-    Provide a very brief (1-page) position statements regarding mentoring, recruiting, and hiring for Liberal Arts CS positions. The first paragraph should be a short career biography; subsequent paragraphs should discuss your ideas for, or potential contributions to, community efforts such as a workshop or mentoring program.
+    Provide a very brief (1-page) position statement regarding mentoring, recruiting, and hiring for Liberal Arts CS positions. The first paragraph should be a short career biography; subsequent paragraphs should discuss your ideas for, or potential contributions to, community efforts such as a workshop or mentoring program.
 
     * Contact: Andrea Tartaro <andrea.tartaro@furman.edu>
     * Template: [Recruiting Submission Template](recruiting/RecruitingTemplate.md)
