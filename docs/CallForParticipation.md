@@ -65,7 +65,7 @@ Submissions may be made in one of two ways:
 - __GitHub Pull Request__: If you are comfortable with git and GitHub submissions may be made via GitHub pull requests.
     1. Fork the Computing in the Liberal Arts [SICSE2021 Pre-Symposium Event Repository](https://github.com/computing-in-the-liberal-arts/SIGCSE2021-PreSymposium-Event).
     1. Create a branch for your submission.
-    1. Add a sub-directory for your submission to the appropriate directory (_curricula_, _CS+X_, _Recruiting_).
+    1. Add a sub-directory for your submission to the appropriate directory (_curricula_, _cs+x_, _recruiting_).
     1. Populate your sub-directory with the materials for your submission.  Please use a file named `index.md` for the text of your submission and copy any images or other supporting materials into your sub-directory. Format your submission using the appropriate template from above.
     1. Create a pull request for your branch.
     1. If you wish to make more than one submission, please create a separate pull request for each submission.
