@@ -22,8 +22,7 @@ Apart from required SIGCSE TS registration there is no cost to participants. How
 
 - January 11, 2021 - Submissions Due
 - January 25, 2021 - Notifications of acceptances, breakout topics and lead panelist invitations.
-- Monday March 8 and Tuesday March 9 - SIGCSE Affiliated Event
-  - **NEED_TO_ADD_TIMES_OF_DAY_HERE**
+- Event Dates: Two half days in the week prior to the SIGCSE TS. Dates and times will be announced as soon as they are finalized with the SIGCSE TS Committee.
 
 ## Call for Participation:
 
@@ -52,7 +51,7 @@ The program committee invites four types of submissions for the pre-symposium ev
     * Contact: Andrea Tartaro <andrea.tartaro@furman.edu>
     * Template: [Recruiting Submission Template](recruiting/RecruitingTemplate.md)
 
-1. __Attendee:__ If you would like to participate, but do not have a submission in one of the above categories please send an e-mail expressing interest in attending and participating in the event to **NEED_AN_EMAIL_FOR_THIS**.
+1. __Attendee:__ If you would like to participate, but do not have a submission in one of the above categories, you will be able to register to attend through the SIGCSE Technical Symposium registration system. More information will be posted when that system becomes available.
 
 ## Submission Process:
 
@@ -77,13 +76,13 @@ The Program Committee intends to collaborate interested authors from each sessio
 
 ## Tentative Event Agenda
 
-**NEED_TO_ADD_TIMES_OF_DAY_HERE**
+The event will run for two half days in the week prior to the SIGCSE TS. Dates and times will be announced as soon as they are finalized with the SIGCSE TS Committee.
 
-- March 8:
+- Day One:
   - Current Issues in Liberal Arts Computing Education
   - Innovative Curricular Models for Computing Education in the Liberal Arts
 
-- March 9:
+- Day Two:
   - CS+X Courses in Liberal Arts Computing
   - Mentoring, Recruiting, and Hiring for Liberal Arts Computing Positions
 
