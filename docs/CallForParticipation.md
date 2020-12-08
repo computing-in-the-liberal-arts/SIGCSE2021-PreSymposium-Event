@@ -16,7 +16,7 @@ All submissions will be lightly screened by the program committee for suitabilit
 
 A template for submission or description of requested information is provided for each session, as well as a contact for questions or email submissions. All submissions may be made through email or GitHub pull request following the process described in the section below. Submissions to multiple sessions are welcome.
 
-Apart from required SIGCSE TS registration there is no cost to participants. However, all participants must respond to the Call for Participation in one of the four forms described below.  We anticipate being able to invite everyone who expresses interest. However, in the unlikely event that our venue cannot accommodate everyone, attendees will be selected giving first priority to those contributing to one of the three sessions and then reviewing attendance applications to achieve representation from a broad range of institutions. All interested faculty and students are welcome.
+Apart from required SIGCSE TS registration there is no cost to participants. However, all participants must respond to the Call for Participation in one of the four forms described below.  We anticipate being able to invite everyone who expresses interest. However, in the unlikely event that our (virtual) venue cannot accommodate everyone, attendees will be selected giving first priority to those contributing to one of the three sessions and then reviewing attendance applications to achieve representation from a broad range of institutions. All interested faculty and students are welcome.
 
 ## Important Dates:
 
@@ -65,7 +65,7 @@ Submissions may be made in one of two ways:
 - __GitHub Pull Request__: If you are comfortable with git and GitHub submissions may be made via GitHub pull requests.
     1. Fork the Computing in the Liberal Arts [SICSE2021 Pre-Symposium Event Repository](https://github.com/computing-in-the-liberal-arts/SIGCSE2021-PreSymposium-Event).
     1. Create a branch for your submission.
-    1. Add a sub-directory for your submission to the appropriate directory (_curricula_, _cs+x_, _recruiting_).
+    1. Add a sub-directory for your submission to the appropriate directory (_curricula_, _cs+x_, or _recruiting_).
     1. Populate your sub-directory with the materials for your submission.  Please use a file named `index.md` for the text of your submission and copy any images or other supporting materials into your sub-directory. Format your submission using the appropriate template from above.
     1. Create a pull request for your branch.
     1. If you wish to make more than one submission, please create a separate pull request for each submission.
