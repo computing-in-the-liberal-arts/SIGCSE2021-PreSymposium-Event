@@ -41,6 +41,7 @@ The program committee invites three types of submissions for the pre-symposium e
     * Contact: Jim Teresco <jteresco@siena.edu>
     * Templates:
       * Markdown: [Curriculum Submission Template](curricula/CurriculumModelTemplate.md)
+      * MS Word: [Curriculum Submission Template](curricula/CurriculumModelTemplate.dotx)
 
 1. __CS+X Course Submissions:__ A brief (2-page) description of a CS+X course (or courses), along with additional information, as described in the submission template.
 
@@ -58,6 +59,7 @@ The program committee invites three types of submissions for the pre-symposium e
     * Contact: Andrea Tartaro <andrea.tartaro@furman.edu>
     * Templates:
       * Markdown: [Recruiting Submission Template](recruiting/RecruitingTemplate.md)
+      * MS Word: [Recruiting Submission Template](recruiting/RecruitingTemplate.dotx)
 
 ## Submission Process:
 
