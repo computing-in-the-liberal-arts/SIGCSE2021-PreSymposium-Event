@@ -26,7 +26,7 @@ Apart from required SIGCSE TS registration there is no cost to participants. How
 
 ## Call for Participation:
 
-The program committee invites four types of submissions for the pre-symposium event. Submission of one of the four types is required for participation in the event.  Participants are welcome to make multiple submissions.
+The program committee invites three types of submissions for the pre-symposium event. Participants are welcome to make multiple submissions.
 
 1. __Curricular Model Submissions:​__ A brief (approximately 2-page) description of the curricular model of your liberal arts computing program.
 
