@@ -12,11 +12,17 @@ This event builds on priorities identified at our [SIGCSE 2020 Pre-Symposium eve
   * __CS+X Courses:__ Descriptions of “CS+X” courses, outcomes, and best practices for CS+X in a liberal arts context.
   * __Recruiting:__ Models for mentoring, recruiting and hiring PhD candidates and postdocs into computer science positions at liberal arts institutions.
 
+We also welcome those that would like to attend and participate in this event, but do not have a submission for one of the above sessions.
+
+All attendees, whether making a submission or not, will also need to formally register for the event through the SIGCSE Technical Symposium registration system. Apart from the required SIGCSE TS registration there will be no additional cost to participants for this event. More information about registration will be posted when the SIGCSE TS registration system becomes available.
+
 All submissions will be lightly screened by the program committee for suitability. All suitable submissions will be made available to the community through this site and all authors of accepted submissions will receive an invitation to participate in the synchronous event and to optionally submit a video presentation.  In addition, the program committee will extend invitations to the authors of select submissions to participate in a panel discussion that will begin each synchronous session.
 
 A template for submission or description of requested information is provided for each session, as well as a contact for questions or email submissions. All submissions may be made through email or GitHub pull request following the process described in the section below. Submissions to multiple sessions are welcome.
 
-Apart from required SIGCSE TS registration there is no cost to participants. However, all participants must respond to the Call for Participation in one of the four forms described below.  We anticipate being able to invite everyone who expresses interest. However, in the unlikely event that our (virtual) venue cannot accommodate everyone, attendees will be selected giving first priority to those contributing to one of the three sessions and then reviewing attendance applications to achieve representation from a broad range of institutions. All interested faculty and students are welcome.
+We anticipate being able to invite everyone who expresses interest. However, in the unlikely event that our (virtual) venue cannot accommodate everyone, attendees will be selected giving first priority to those contributing to one of the three sessions and then reviewing attendance applications to achieve representation from a broad range of institutions. All interested faculty and students are welcome.
+
+
 
 ## Important Dates:
 
@@ -50,8 +56,6 @@ The program committee invites three types of submissions for the pre-symposium e
 
     * Contact: Andrea Tartaro <andrea.tartaro@furman.edu>
     * Template: [Recruiting Submission Template](recruiting/RecruitingTemplate.md)
-
-1. __Attendee:__ If you would like to participate, but do not have a submission in one of the above categories, you will be able to register to attend through the SIGCSE Technical Symposium registration system. More information will be posted when that system becomes available.
 
 ## Submission Process:
 
