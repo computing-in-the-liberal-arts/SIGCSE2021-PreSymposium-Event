@@ -22,8 +22,6 @@ A template for submission or description of requested information is provided fo
 
 We anticipate being able to invite everyone who expresses interest. However, in the unlikely event that our (virtual) venue cannot accommodate everyone, attendees will be selected giving first priority to those contributing to one of the three sessions and then reviewing attendance applications to achieve representation from a broad range of institutions. All interested faculty and students are welcome.
 
-
-
 ## Important Dates:
 
 - January 11, 2021 - Submissions Due
@@ -43,9 +41,9 @@ The program committee invites three types of submissions for the pre-symposium e
     * Contact: Jim Teresco <jteresco@siena.edu>
     * Template: [Curriculum Submission Template](curricula/CurriculumModelTemplate.md)
 
-1. __CS+X Course Submissions:__
+1. __CS+X Course Submissions:__ A brief (2-page) description of a CS+X course (or courses), along with additional information, as described in the submission template.
 
-    **NEED_DESCRIPTION_HERE**
+    Faculty members with experience teaching a CS+X course are invited to submit their applications to present their course and participate in Q&A sessions and small group discussions. Submissions describing models that are particularly innovative or effective at balancing the contributions and perspective of both computer science and the other discipline are encouraged. Potential areas of focus include learning outcomes, collaboration challenges, target populations, challenges for faculty teaching the courses, decision variables that guide the course content or structure, or constraints on the courses (institutional, departmental, or otherwise).
 
     * Contact: Luke Gusukuma <lukesg08@vt.edu>
     * Template: [CS+X Submission Template](cs+x/CS+XTemplate.md)
@@ -76,7 +74,7 @@ Submissions may be made in one of two ways:
 
 ## Post Event Reports
 
-The Program Committee intends to collaborate interested authors from each session to write event reports. These reports will be posted to this repository and may also be submitted to a peer reviewed venue for publication (e.g. SIGCSE Bulletin).
+The Program Committee intends to collaborate with interested authors from each session to write event reports. These reports will be posted to this repository and may also be submitted to a peer reviewed venue for publication (e.g. SIGCSE Bulletin).
 
 ## Tentative Event Agenda
 
