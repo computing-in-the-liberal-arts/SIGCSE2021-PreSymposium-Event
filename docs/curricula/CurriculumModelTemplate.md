@@ -5,17 +5,18 @@ _Please limit your contribution to about two pages, or 700-1000 words._
 
 ## Institutional and departmental context
 - Location:
-- Student body size: _N_ students
+- Undergraduate student body size: _N_ students
 - Degree(s) offered:
 - Department/major name:
 - Number of contributing faculty: _N_ FTE
 - Number of majors annually: _N_ majors
+- Does the department offer any graduate programs?
 
 _Expand here on any other contextual factors that have shaped your curriculum:
 - institutional mission, culture, curriculum, or strategic plans;
 - relevant historical circumstances;
-- goals for interdisciplinarity, broaadening participation, etc.;
-- unusual opportunties._
+- goals for interdisciplinarity, broadening participation, etc.;
+- unusual opportunities.
 
 ## Curricular overview
 
