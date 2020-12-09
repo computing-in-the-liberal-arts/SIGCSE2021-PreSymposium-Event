@@ -34,33 +34,37 @@ The program committee invites three types of submissions for the pre-symposium e
 
 1. __Curricular Model Submissions:​__ A brief (approximately 2-page) description of the curricular model of your liberal arts computing program.
 
-    Please see the [Curriculum Submission Template](curricula/CurriculumModelTemplate.md) and the samples ([Dickinson College](curricula/dickinson/index.md), [Whitman College](curricula/whitman/index.md)).  Submissions describing models that are particularly innovative, or that leverage particular opportunities and/or challenges presented by the liberal arts context, and/or show potential for broadening participation in computing are encouraged.
+    Please see the Curriculum Submission Templates below and the samples ([Dickinson College](curricula/dickinson/index.md), [Whitman College](curricula/whitman/index.md)).  Submissions describing models that are particularly innovative, or that leverage particular opportunities and/or challenges presented by the liberal arts context, and/or show potential for broadening participation in computing are encouraged.
 
     Given the COVID-19 disruption of our 2020 event, the committee welcomes updated resubmissions of curricular innovations from the 2020 event.
 
     * Contact: Jim Teresco <jteresco@siena.edu>
-    * Template: [Curriculum Submission Template](curricula/CurriculumModelTemplate.md)
+    * Templates:
+      * Markdown: [Curriculum Submission Template](curricula/CurriculumModelTemplate.md)
 
 1. __CS+X Course Submissions:__ A brief (2-page) description of a CS+X course (or courses), along with additional information, as described in the submission template.
 
     Faculty members with experience teaching a CS+X course are invited to submit their applications to present their course and participate in Q&A sessions and small group discussions. Submissions describing models that are particularly innovative or effective at balancing the contributions and perspective of both computer science and the other discipline are encouraged. Potential areas of focus include learning outcomes, collaboration challenges, target populations, challenges for faculty teaching the courses, decision variables that guide the course content or structure, or constraints on the courses (institutional, departmental, or otherwise).
 
     * Contact: Luke Gusukuma <lukesg08@vt.edu>
-    * Template: [CS+X Submission Template](cs+x/CS+XTemplate.md)
+    * Templates:
+      * Markdown: [CS+X Submission Template](cs+x/CS+XTemplate.md)
+      * MS Word: [CS+X Submission Template](cs+x/CS+XTemplate.dotx)
 
 1. __Recruiting Submissions:__
 
     Provide a very brief (1-page) position statement regarding mentoring, recruiting, and hiring for Liberal Arts CS positions. The first paragraph should be a short career biography; subsequent paragraphs should discuss your ideas for, or potential contributions to, community efforts such as a workshop or mentoring program.
 
     * Contact: Andrea Tartaro <andrea.tartaro@furman.edu>
-    * Template: [Recruiting Submission Template](recruiting/RecruitingTemplate.md)
+    * Templates:
+      * Markdown: [Recruiting Submission Template](recruiting/RecruitingTemplate.md)
 
 ## Submission Process:
 
 Submissions may be made in one of two ways:
 
 - __E-Mail__:
-  1. Write your submission in a a MS Word, rich text or plain text document using the appropriate template from above.
+  1. Write your submission in a a MS Word or plain text markdown document using the appropriate template from above.
   1. E-mail the contact for the session with a zip file containing your submission and any images or other supporting files.  The Program Committee will add your submission to the repository.
   1. If you wish to make more than one submission, please submit a separate zip file for each submission.
 
@@ -68,7 +72,7 @@ Submissions may be made in one of two ways:
     1. Fork the Computing in the Liberal Arts [SICSE2021 Pre-Symposium Event Repository](https://github.com/computing-in-the-liberal-arts/SIGCSE2021-PreSymposium-Event).
     1. Create a branch for your submission.
     1. Add a sub-directory for your submission to the appropriate directory (_curricula_, _cs+x_, or _recruiting_).
-    1. Populate your sub-directory with the materials for your submission.  Please use a file named `index.md` for the text of your submission and copy any images or other supporting materials into your sub-directory. Format your submission using the appropriate template from above.
+    1. Populate your sub-directory with the materials for your submission.  Please use a file named `index.md` for the text of your submission and copy any images or other supporting materials into your sub-directory. Format your submission using the appropriate markdown template from above.
     1. Create a pull request for your branch.
     1. If you wish to make more than one submission, please create a separate pull request for each submission.
 
