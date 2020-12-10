@@ -8,7 +8,7 @@ This event builds on priorities identified at our [SIGCSE 2020 Pre-Symposium eve
 
 - [SIGCSE 2021](https://sigcse2021.sigcse.org)
 - [Event Proposal](SIGCSE-2021-CSLA.pdf)
-- [Call for Participation] - Coming Soon
+- [Call for Participation](CallForParticpation.md)
 - [Event Agenda] - Coming Soon
 - [Resulting Materials] - Coming Soon
 
