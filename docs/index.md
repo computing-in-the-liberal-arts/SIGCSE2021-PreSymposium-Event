@@ -28,7 +28,7 @@ Exact dates and times of day coming soon.
   - Current Issues in Liberal Arts Computing Education
   - Innovative Curricular Models for Computing Education in the Liberal Arts
 
-- Day Two: Monday March 8, 2021, 1:00pm EST - 4:30pm EST
+- Day Two: Tuesday March 9, 2021, 1:00pm EST - 4:30pm EST
   - CS+X Courses in Liberal Arts Computing
   - Mentoring, Recruiting, and Hiring for Liberal Arts Computing Positions
 
