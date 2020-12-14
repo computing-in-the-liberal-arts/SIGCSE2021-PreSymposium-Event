@@ -16,17 +16,19 @@ This event builds on priorities identified at our [SIGCSE 2020 Pre-Symposium eve
 
 - Monday January 10, 2021 - Submissions Due
 - Monday January 24, 2021 - Notifications of acceptances and lead panelist invitations.
-- Event Dates: Two half days in the week prior to the SIGCSE TS. Dates and times will be announced as soon as they are finalized with the SIGCSE TS Committee.
+- Event Dates:
+  - Day One: Monday March 8, 2021, 1:00pm EST - 4:30pm EST
+  - Day Two: Tuesday March 9, 2021, 1:00pm EST - 4:30pm EST
 
 ## Tentative Event Agenda
 
 Exact dates and times of day coming soon.
 
-- Day One:
+- Day One: Monday March 8, 2021, 1:00pm EST - 4:30pm EST
   - Current Issues in Liberal Arts Computing Education
   - Innovative Curricular Models for Computing Education in the Liberal Arts
 
-- Day Two:
+- Day Two: Monday March 8, 2021, 1:00pm EST - 4:30pm EST
   - CS+X Courses in Liberal Arts Computing
   - Mentoring, Recruiting, and Hiring for Liberal Arts Computing Positions
 
