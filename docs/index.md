@@ -22,8 +22,6 @@ This event builds on priorities identified at our [SIGCSE 2020 Pre-Symposium eve
 
 ## Tentative Event Agenda
 
-Exact dates and times of day coming soon.
-
 - Day One: Monday March 8, 2021, 1:00pm EST - 4:30pm EST
   - Current Issues in Liberal Arts Computing Education
   - Innovative Curricular Models for Computing Education in the Liberal Arts
