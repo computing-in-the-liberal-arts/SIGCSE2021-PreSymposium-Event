@@ -20,8 +20,8 @@ We anticipate being able to invite everyone who expresses interest. However, in 
 
 ## Important Dates:
 
-- January 11, 2021 - Submissions Due
-- January 25, 2021 - Notifications of acceptances, breakout topics and lead panelist invitations.
+- Monday January 11, 2021 - Submissions Due
+- Monday January 25, 2021 - Notifications of acceptances, breakout topics and lead panelist invitations.
 - Event Dates:
   - Day One: Monday March 8, 2021, 1:00pm EST - 4:30pm EST
   - Day Two: Tuesday March 9, 2021, 1:00pm EST - 4:30pm EST

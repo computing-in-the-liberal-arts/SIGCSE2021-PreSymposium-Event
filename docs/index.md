@@ -15,7 +15,7 @@ This event builds on priorities identified at our [SIGCSE 2020 Pre-Symposium eve
 ## Important Dates
 
 - Monday January 10, 2021 - Submissions Due
-- Monday January 24, 2021 - Notifications of acceptances and lead panelist invitations.
+- Monday January 25, 2021 - Notifications of acceptances and lead panelist invitations.
 - Event Dates:
   - Day One: Monday March 8, 2021, 1:00pm EST - 4:30pm EST
   - Day Two: Tuesday March 9, 2021, 1:00pm EST - 4:30pm EST
