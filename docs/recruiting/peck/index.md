@@ -3,7 +3,7 @@
 Contributed by _Evan Peck_, _evan.peck@bucknell.edu_
 
 ## Biography
-Evan is an Associate Professor of Computer Science at Bucknell University. While broadly active in research surrounding HCI, Visualization, and CS ethics education, he has also [curated and published lists of hiring ads at research-active PUIs](https://cs-pui.github.io/) for the past 3 years. 
+[Evan Peck is an Associate Professor of Computer Science](http://www.eg.bucknell.edu/~emp017/) at Bucknell University. While broadly active in research surrounding HCI, Visualization, and CS ethics education, he has also [curated and published lists of hiring ads at research-active PUIs](https://cs-pui.github.io/) for the past three years. 
 
 ## Proposal
 Over the past decade, there has been a significant shift towards earlier offer deadlines among liberal arts colleges. In a [sampling of ads from the 2019/2020 hiring season](https://evanmpeck.medium.com/cs-academic-job-market-for-liberal-arts-colleges-19-20-cd348423f919), 20 out of 24 institutions that list deadlines required applications to be submitted on November 1st or earlier (mostly highly selective liberal arts colleges). These early application deadlines often lead to hiring processes that conclude _before_ Winter Break, providing little-to-no overlap with proceseses research institutions.
