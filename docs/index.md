@@ -44,6 +44,8 @@ This event builds on priorities identified at our [SIGCSE 2020 Pre-Symposium eve
 
   - #### 3:00-4:30: Mentoring, Recruiting, and Hiring for Liberal Arts Computing Positions
 
+    Recruiting CS faculty to liberal arts colleges is a perennial challenge. In this session, we will discuss proposals for improving mentoring, recruiting, and hiring of candidates for positions at primarily undergraduate institutions (PUIs). A panel session will include four proposals: (1) a PUI-focused professional development workshop for graduate students and other job seekers; (2) co-sponsorship of teaching-focused workshops at top-tier research conferences; (3) a distributed mentoring program for PUI job applicants; (4) coordination of offer dates to accommodate candidates applying to both liberal arts colleges and research-intensive universities. The panel will be followed by breakout groups to consider possible implementations of these proposals or others.
+
 ## Organizers
 - Amanda Holland-Minkley, Washington & Jefferson College
 - Janet Davis, Whitman College
