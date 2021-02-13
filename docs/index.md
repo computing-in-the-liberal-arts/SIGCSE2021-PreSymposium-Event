@@ -32,7 +32,7 @@ This event builds on priorities identified at our [SIGCSE 2020 Pre-Symposium eve
 
   - #### 2:30-3:00: Break
 
-  - #### 3:00-4:30: Innovative Curricular Models for Computing Education in the Liberal Arts
+  - #### 3:00-4:30: Curricular Innovations for Computing Education in the Liberal Arts
 
     Computing education in the context of the liberal arts presents unique challenges related to institutional and disciplinary priorities, pressures and needs. But it also affords unique opportunities. This session will examine some of those challenges and explores curricular innovations both well-developed and more preliminary for how to meet them. The session will begin with a 30-minute panel, where specific challenges and curricular solutions submitted by the community will be presented for discussion. Session participants will identify a short list of challenges to be discussed further, and will join breakout rooms for 20 minutes to better understand the challenge and gather ideas and examples of how that challenge is being or could be addressed. Breakout groups will report back to the entire group for the next 10 minutes. The final 30 minutes of the session will be an open conversation on how the Committee can facilitate ongoing collaboration among the liberal arts computing education community to address challenges and to disseminate solutions to the wider community.
 
