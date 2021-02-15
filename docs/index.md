@@ -40,6 +40,8 @@ This event builds on priorities identified at our [SIGCSE 2020 Pre-Symposium eve
 
   - #### 1:00-2:30: CS+X Courses in Liberal Arts Computing
 
+    As computing and its capabilities have made continual advancements, more fields have access to computing and are using computing to investigate complex problems. These advancements have increased demand for CS+X content. This content ranges from interdisciplinary curricula to guide students to explore how computing can be incorporated into different fields to standalone courses that combine the learning of computer science (the "CS") with the learning of other fields (the "+X"). Some efforts are ad hoc and vary from students learning to use computing tools to probe "X" content, to instructors using "X" as the context to teach or demonstrate computing content. This workshop aims to establish a framework through which instructors can describe and/or develop fully integrated CS+X experiences for students majoring in computer science and other disciplines. There will be two breakout sessions, one facilitated by faculty in computer science and another who is not. Attendees will be encouraged to explore and brainstorm how to best accomplish this task from multiple perspectives. This workshop ends with a discussion to synthesize all the concepts/findings and develop core principles for a framework that instructors can use to develop effective "CS+X" courses that satisfy the learning goals and outcomes for students in both computer science and other disciplines.
+
   - #### 2:30-3:00: Break
 
   - #### 3:00-4:30: Mentoring, Recruiting, and Hiring for Liberal Arts Computing Positions
