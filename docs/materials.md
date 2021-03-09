@@ -8,10 +8,10 @@ This page contains links to materials from the [SIGCSE 2021 Pre-Symposium event]
     - [Session Notes](https://docs.google.com/document/d/1BQ3701uqCKtGnQP4I2wdiO7kU3JbiCnkkiV7ZvlS6HE/edit?pli=1#)
 
     - ### 3:00-4:30: Curricular Innovations for Computing Education in the Liberal Arts  
-      - Dickinson College (Grant Braught) [ [Description](curricula/dickinson/index.md) | [Slides](curricula/braughtSlides.pdf) ]
-      - Denison University (Jessen Havill) [ [Description](curricula/denison/index.md) | [Slides](curricula/havillSlides.pdf) ]
-      - Birmingham-Southern College (Amber Wagner) [ [Description](curricula/grinnell/BSC Program Write-up.docx) | [Slides](curricula/wagnerSlides.pdf) ]
-      - Grinnell College (Henry Walker) [ [Description](curricula/grinnell/Grinnell-curriculum.docx) | [Slides](curricula/walkerSlides.pdf) ]
+      - Dickinson College (Grant Braught) [ [Description](curricula/dickinson/index.md) - [Slides](curricula/braughtSlides.pdf) ]
+      - Denison University (Jessen Havill) [ [Description](curricula/denison/index.md) - [Slides](curricula/havillSlides.pdf) ]
+      - Birmingham-Southern College (Amber Wagner) [ [Description](curricula/grinnell/BSC Program Write-up.docx) - [Slides](curricula/wagnerSlides.pdf) ]
+      - Grinnell College (Henry Walker) [ [Description](curricula/grinnell/Grinnell-curriculum.docx) - [Slides](curricula/walkerSlides.pdf) ]
 
       - [Session Notes](https://docs.google.com/document/d/16WT7IpL51MXSwBQzP1_WnzaER_5nSrkyHFqtMdiIe5A/edit?pli=1)
 
@@ -21,4 +21,4 @@ This page contains links to materials from the [SIGCSE 2021 Pre-Symposium event]
 
     - ### 3:00-4:30: Mentoring, Recruiting, and Hiring for Liberal Arts Computing Positions
       - Evan Peck (Bucknell University) [ [Description](recruiting/peck/index.html) ]
-      - Adam Poliak (Barnard College) [ [Description](recruiting/polioak/index.html) ]
+      - Adam Poliak (Barnard College) [ [Description](recruiting/poliak/index.html) ]
