@@ -15,10 +15,10 @@ This page contains links to materials from the [SIGCSE 2021 Pre-Symposium event]
 
     - [Session Notes](https://docs.google.com/document/d/16WT7IpL51MXSwBQzP1_WnzaER_5nSrkyHFqtMdiIe5A/edit?pli=1)
 
-  - ## Tuesday March 9, 2021, 1:00pm EST - 4:30pm EST
+- ## Tuesday March 9, 2021, 1:00pm EST - 4:30pm EST
 
-    - ### 1:00-2:30: CS+X Courses in Liberal Arts Computing
+  - ### 1:00-2:30: CS+X Courses in Liberal Arts Computing
 
-    - ### 3:00-4:30: Mentoring, Recruiting, and Hiring for Liberal Arts Computing Positions
-      - Evan Peck (Bucknell University) [ [Description](recruiting/peck/index.html) ]
-      - Adam Poliak (Barnard College) [ [Description](recruiting/poliak/index.html) ]
+  - ### 3:00-4:30: Mentoring, Recruiting, and Hiring for Liberal Arts Computing Positions
+    - Evan Peck (Bucknell University) [ [Description](recruiting/peck/index.html) ]
+    - Adam Poliak (Barnard College) [ [Description](recruiting/poliak/index.html) ]
