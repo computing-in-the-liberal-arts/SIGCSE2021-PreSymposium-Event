@@ -18,6 +18,13 @@ This page contains links to materials from the [SIGCSE 2021 Pre-Symposium event]
 - ## Tuesday March 9, 2021, 1:00pm EST - 4:30pm EST
 
   - ### 1:00-2:30: CS+X Courses in Liberal Arts Computing
+    - [Session Notes](https://drive.google.com/drive/folders/1jZ2le7HFf1NIRXNSqKAJ4fsDzXLyyTfx)
+
+      - [Team teaching](https://docs.google.com/document/d/1DjZHXqe_YZgKvi2Pz7qkcifm46zv5Tp6XSnjq2LUvXM)
+      - [Course Modules](https://docs.google.com/document/d/1HJCggpBheKB_oNKlJY8hec0ybYLIJXCxYx16WMWFJYY)
+      - [Curriculum Development](https://docs.google.com/document/d/1k7KmMK_zJ_uBNKBdFfundgOIlpVVUMjwsVm7BGC9exE)
+      - [Intro Courses](https://docs.google.com/document/d/1AOWEwCwxAB3SVbuCNXcfosfCjBambfDw-w3NA7m1Muw)
+      - [Contextualizing Computing Courses](https://docs.google.com/document/d/1uKIkDAmK-06C2sie8HaWhkHIxWk703OeFc0iwW1TmG4)
 
   - ### 3:00-4:30: Mentoring, Recruiting, and Hiring for Liberal Arts Computing Positions
     - Evan Peck (Bucknell University) [ [Description](recruiting/peck/index.html) ]
