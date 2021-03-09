@@ -10,7 +10,7 @@ This page contains links to materials from the [SIGCSE 2021 Pre-Symposium event]
   - ### 3:00-4:30: Curricular Innovations for Computing Education in the Liberal Arts  
     - Dickinson College (Grant Braught) [ [Description](curricula/dickinson/index.md) - [Slides](curricula/braughtSlides.pdf) ]
     - Denison University (Jessen Havill) [ [Description](curricula/denison/index.md) - [Slides](curricula/havillSlides.pdf) ]
-    - Birmingham-Southern College (Amber Wagner) [ [Description](curricula/grinnell/BSC Program Write-up.docx) - [Slides](curricula/wagnerSlides.pdf) ]
+    - Birmingham-Southern College (Amber Wagner) [ [Description](curricula/bsc/BSC Program Write-up.docx) - [Slides](curricula/wagnerSlides.pdf) ]
     - Grinnell College (Henry Walker) [ [Description](curricula/grinnell/Grinnell-curriculum.docx) - [Slides](curricula/walkerSlides.pdf) ]
 
     - [Session Notes](https://docs.google.com/document/d/16WT7IpL51MXSwBQzP1_WnzaER_5nSrkyHFqtMdiIe5A/edit?pli=1)
