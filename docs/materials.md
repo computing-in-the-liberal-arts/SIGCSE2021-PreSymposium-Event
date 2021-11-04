@@ -33,3 +33,6 @@ This page contains links to materials from the [SIGCSE 2021 Pre-Symposium event]
     - Andrea Tartaro (Furman University)
 
     - [Session Notes](https://docs.google.com/document/d/1e9YHEPcYFyIARYL0wUV9hwyjEDHowI1ThTTZ3ADwTqg/edit?usp=sharing)
+
+  ___
+  ![Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png "Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License") Unless otherwise noted on an individual resource, all materials in this repository are licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/)
