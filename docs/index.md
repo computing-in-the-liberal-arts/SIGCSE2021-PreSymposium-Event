@@ -1,5 +1,4 @@
-# Innovations and Opportunities
-# in Liberal Arts Computing Education
+# Innovations and Opportunities<br>in Liberal Arts Computing Education
 
 A [SIGCSE 2021](https://sigcse2021.sigcse.org) affiliated event organized by members of the SIGCSE Committee on Computing Education in Liberal Arts Colleges.
 
